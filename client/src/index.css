@@ -1,0 +1,8 @@
+input[type="email"],input[type="password"],input[type="text"]{
+    @apply  -ml-5 my-2 px-3 py-2 w-full text-xl outline-0 border rounded-2xl 
+}
+textarea{
+    @apply px-3 py-1 w-full  outline-gray-300 border rounded-xl 
+  
+}
+
